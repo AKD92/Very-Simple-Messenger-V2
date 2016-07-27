@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/Duration Of Time"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/File Size with Justification"/>
+	<classpathentry kind="lib" path="G:/Ashish Files/documents/Resources for Java Applications/JAVA Libraries/Cryptix JCE/cryptix-jce-20050328-snap/bin/cryptix-jce-provider.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
