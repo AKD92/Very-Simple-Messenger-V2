@@ -1,7 +1,6 @@
 <img src = "/resources/app-003.png" al="Icon" align="left"> <h1>Very Simple Messenger (VSM UDP)</h1>
-<h3>A P2P Messaging Software for Desktop using UDP protocol</h3>
+<h3>A P2P Messaging Software for Desktop using UDP protocol<br>Version 1.3.9</h3>
 <img src = "/screen_shot/s6.png" al="VSM UDP Main Window" align="right">
-<h3>Version 1.3.9</h3>
 
 <h3>Introduction:</h3>
 <p>VSM is a simple messaging software written completely in Java.
