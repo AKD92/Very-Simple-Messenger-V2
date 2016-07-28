@@ -3,5 +3,6 @@
 <img src = "/screen_shot/s6.png" al="VSM UDP Main Window" align="right">
 <h3>Version 1.3.9</h3>
 
-### Introduction:
-VSM is a messaging software written completely in Java. Using VSM you can communicate with other persons in the internet. VSM does not require any additional registration or account creation, instead you can use connect with other people by using IP address. VSM is a P2P messaging spftware, which means it does not use any intermediate server to relay or transport messages between users. Instead VSM transports messages directly to the IP address that you provide.
+<h3>Introduction:</h3>
+<p>VSM is a messaging software written completely in Java. Using VSM you can communicate with other persons in the internet. VSM does not require you to go through any additional registration, account creation or log-in processes, instead it lets you to use your IP address to connect with other people on the net.</p>
+<p>VSM is a P2P messaging software, which means it does not use any intermediate server to store user information or to transport messages between users. Instead VSM sends messages directly to the IP address that you provide.</p>
