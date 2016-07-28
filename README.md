@@ -1,3 +1,4 @@
+
 <h1>
 <img src = "/resources/app-003.png" al="Icon" align="left">
 Very Simple Messenger (VSM UDP)
@@ -9,7 +10,7 @@ Version 1.3.9</i><br>
 </h3>
 
 <h3>Introduction:</h3>
-<div align="justify">
+
 <p align="justify">VSM is a simple messaging software written completely in Java.
 Using VSM you can communicate with other persons in the internet.</p>
 <p align="justify">VSM does not require you to go through any additional registration, account creation or log-in processes.
@@ -20,5 +21,4 @@ Instead VSM sends messages directly to the IP address that you provide.</p>
 <p align="justify">VSM uses UDP as its base networking protocol, hence the name VSM UDP.</p>
 <p align="justify">UDP is a very fast protocol, so as you communicate with VSM
 you will experience that messages come and go very quickly.</p>
-</div>
 
