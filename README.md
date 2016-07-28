@@ -11,7 +11,7 @@ Instead it lets you to use your IP address to connect with other people on the n
 <p>VSM is a P2P messaging software, which means it does not use any intermediate server
 to store user information or to transport messages between users.
 Instead VSM sends messages directly to the IP address that you provide.</p>
-<p>VSM uses UDP as its base networking protocol, hence the name VSM UDP.
-UDP is a very fast protocol, so as you communicate with VSM
-you will experience that message come and go very quickly.</p>
+<p>VSM uses UDP as its base networking protocol, hence the name VSM UDP.</p>
+<p>UDP is a very fast protocol, so as you communicate with VSM
+you will experience that messages come and go very quickly.</p>
 
