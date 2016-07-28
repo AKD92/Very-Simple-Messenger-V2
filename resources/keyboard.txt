@@ -1,0 +1,10 @@
+﻿Keyboard Shorcuts for VSM
+
+Altr + C	Connect to a remote host
+Altr + D	Disconnect from connected remote host
+
+F2	Change Program Options
+F3	View My IP Address
+
+Ctrl + R	Set focus on the message typer box
+Altr + Q	Quits the program
