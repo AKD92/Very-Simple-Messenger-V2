@@ -5,7 +5,7 @@ Very Simple Messenger (VSM UDP)
 <h3>
 <i>A P2P Messaging Software for Desktop using UDP protocol<br>
 Version 1.3.9</i><br>
-<img src = "/screen_shot/s6.png" al="VSM UDP Main Window" align="right" style="PADDING-LEFT: 50px; PADDING-RIGHT: 0px;">
+<img src = "/screen_shot/s6.png" al="VSM UDP Main Window" align="right" style="margin-left: 50px">
 </h3>
 
 <h3>Introduction:</h3>
