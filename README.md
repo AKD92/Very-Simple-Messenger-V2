@@ -29,7 +29,7 @@ you will experience that messages come and go very quickly.</p>
 Executable in .ZIP Archive</a>
 </b></li>
 <li><b>
-<a href="src/net/vsmudp">Browse for Source Codes</a> at GitHub
+<a href="src/net/vsmudp">Browse for Source Codes</a> on GitHub
 </b></li>
 </ul>
 
