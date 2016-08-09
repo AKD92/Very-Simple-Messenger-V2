@@ -22,5 +22,16 @@ Instead VSM sends messages directly to the IP address that you provide.</p>
 <p align="justify">UDP is a very fast protocol, so as you communicate with VSM
 you will experience that messages come and go very quickly.</p>
 
+<h3>Download</h3>
+<ul>
+<li><b>
+<a href="https://github.com/AKD92/Very-Simple-Messenger-V2/raw/master/final_distro/vsm_1.3.9.zip">
+Executable in .ZIP Archive</a>
+</b></li>
+<li><b>
+<a href="src/net/vsmudp">Browse for Source Codes</a> at GitHub
+</b></li>
+</ul>
+
 <h3>License</h3>
 <a rel="license" href="http://www.gnu.org/licenses/gpl-3.0-standalone.html"><img alt="GPLv3 License" style="border-width:0" src="http://www.gnu.org/graphics/gplv3-127x51.png" /></a><br />This software is licensed under <a rel="license" href="http://www.gnu.org/licenses/gpl-3.0-standalone.html">GNU General Public License, Version 3</a>.
