@@ -26,7 +26,9 @@ you will experience that messages come and go very quickly.</p>
 <ul>
 <li><b>
 <a href="https://github.com/AKD92/Very-Simple-Messenger-V2/raw/master/final_distro/vsm_1.3.9.zip">
-Executable in .ZIP Archive</a>
+Compiled Executable in .ZIP Archive</a>
+<br>
+Virus free (scanned with avast! antivirus)
 </b></li>
 <li><b>
 <a href="src/net/vsmudp">Browse for Source Codes</a> on GitHub
