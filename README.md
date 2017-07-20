@@ -25,7 +25,7 @@ you will experience that messages come and go very quickly.</p>
 <h3>Download</h3>
 <ul>
 <li><b>
-<a href="https://github.com/AKD92/Very-Simple-Messenger-V2/raw/master/final_distro/vsm_1.3.9.zip">
+<a href="https://github.com/AKD92/Very-Simple-Messenger-V2/raw/master/final_distro/vsm_1.3.9.zip" download>
 Compiled Executable in .ZIP Archive</a>
 <br>
 Virus free (scanned with avast! antivirus)
